@@ -57,8 +57,10 @@ My teaching aims to:
 
 ---
 
-## 📊 Teaching Achievements
+## 📊 Teaching Achievements（教学成果）
 
+- 课程建设
+- 教学研究
 - 指导学生参与科研项目  
 - 学生发表论文 / 获奖  
 
