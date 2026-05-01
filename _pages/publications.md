@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 For a complete list, please visit my Google Scholar:  
-https://www.gupiaoq.com/citations?user=cnXsZBEAAAAJ&hl=en&oi=ao
+https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 
 ---
 
