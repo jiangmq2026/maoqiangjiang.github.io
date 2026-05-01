@@ -25,7 +25,7 @@ permalink: /group/
 <div style="display:flex; flex-wrap:wrap; gap:30px;">
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/DingranZhangjpg" width="160" style="border-radius:10px;"><br>
+  <img src="/images/students/DingranZhangjpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Dingran Zhang（张丁然）</strong><br>
   PhD Student<br>
   (2022–2026 )<br>
@@ -41,7 +41,7 @@ permalink: /group/
 <div style="display:flex; flex-wrap:wrap; gap:30px;">
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/XiaoyuFan.jpg" width="160" style="border-radius:10px;"><br>
+  <img src="/images/students/XiaoyuFan.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Xiaoyu Fan（范小禹）</strong><br>
   Master Student<br>
    (2023–2026 )<br>
@@ -49,7 +49,7 @@ permalink: /group/
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/JiajiaWu.jpg" width="160" style="border-radius:10px;"><br>
+  <img src="/images/students/JiajiaWu.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Jiajia Wu（吴嘉嘉）</strong><br>
   Master Student<br>
    (2023–2026 )<br>
@@ -57,7 +57,7 @@ permalink: /group/
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/JingyuZeng.jpg" width="160" style="border-radius:10px;"><br>
+  <img src="/images/students/JingyuZeng.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Jingyu Zeng（曾静宇）</strong><br>
   Master Student<br>
    (2024–2027 )<br>
@@ -65,7 +65,7 @@ permalink: /group/
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/XinqinGan.jpg" width="160" style="border-radius:10px;"><br>
+  <img src="/images/students/XinqinGan.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Xinqin Gan（甘鑫琴）</strong><br>
   Master Student<br>
    (2024–2027 )<br>
@@ -73,7 +73,7 @@ permalink: /group/
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/JiayuanHan.jpg" width="160" style="border-radius:10px;"><br>
+  <img src="/images/students/JiayuanHan.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Jiangyuan Han（韩家源）</strong><br>
   Master Student<br>
    (2025–2028 )<br>
@@ -81,7 +81,7 @@ permalink: /group/
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/SiyuanLiu.jpg" width="160" style="border-radius:10px;"><br>
+  <img src="/images/students/SiyuanLiu.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Siyuan Liu（刘思源）</strong><br>
   Master Student<br>
    (2025–2028 )<br>
@@ -89,7 +89,7 @@ permalink: /group/
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/TaoMa.jpg" width="160" style="border-radius:10px;"><br>
+  <img src="/images/students/TaoMa.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Tao Ma（马涛）</strong><br>
   Master Student<br>
    (2025–2028 )<br>
@@ -97,7 +97,7 @@ permalink: /group/
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/XinyuCui.jpg" width="160" style="border-radius:10px;"><br>
+  <img src="/images/students/XinyuCui.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Xinyu Cui（崔新宇）</strong><br>
   Master Student<br>
    (2026–2029 )<br>
@@ -105,7 +105,7 @@ permalink: /group/
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/linfengWang.jpg" width="160" style="border-radius:10px;"><br>
+  <img src="/images/students/linfengWang.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Linfeng Wan（万林峰）</strong><br>
   Master Student<br>
    (2026–2029 )<br>
