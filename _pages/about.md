@@ -24,7 +24,8 @@ My work aims to develop efficient numerical methods and integrate artificial int
 
 ---
 
-<img src="/images/research.png" width="600" style="display:block; margin:auto;">
+<img src="/images/research.png" 
+     style="width:70%; display:block; margin:20px auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
 
 ---
 
