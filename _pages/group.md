@@ -162,4 +162,4 @@ permalink: /group/
 
 ## 🤝 Join Us
 
-See the [Students page](/join/) for recruitment information.
+See the [Join Us page](/join/) for recruitment information.
