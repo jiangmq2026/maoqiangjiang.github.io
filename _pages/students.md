@@ -4,7 +4,7 @@ title: "Join Us"
 permalink: /join/
 ---
 
-# Students / 招生信息
+# Join Us / 招生信息
 
 ## 🧭 研究方向 Research Areas
 
