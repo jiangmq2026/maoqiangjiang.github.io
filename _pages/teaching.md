@@ -32,7 +32,7 @@ permalink: /teaching/
 **Advanced Engineering Thermodynamics and Heat Transfer**
 
 - 面向研究生阶段的高级课程  
-- 内容包括：非平衡热力学、多相传热、复杂系统热力分析  
+- 内容包括：实际气体热力学、非平衡热力学、非稳态导热、边界层对流传热计算、数值传热学  
 - 强调理论深度与科研应用  
 
 ---
