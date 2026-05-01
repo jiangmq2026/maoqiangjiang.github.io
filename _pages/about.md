@@ -24,6 +24,10 @@ My work aims to develop efficient numerical methods and integrate artificial int
 
 ---
 
+<img src="/images/research.png" width="600">
+
+---
+
 ## 🔬 Research Interests
 
 - Computational Fluid Dynamics (CFD)  
