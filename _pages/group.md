@@ -121,7 +121,7 @@ permalink: /group/
 <div style="display:flex; flex-wrap:wrap; gap:30px;">
 
 <div style="width:180px; text-align:center;">
-  <img src="/images/students/WeiTao.jpg" width="140" style="border-radius:10px;"><br>
+  <img src="/images/students/WeiTao.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Wei Tao（陶为）</strong><br>
   Undergraduate<br>
   (2023–2027 )<br>
@@ -129,7 +129,7 @@ permalink: /group/
 </div>
 
 <div style="width:180px; text-align:center;">
-  <img src="/images/students/JiaruiLi.jpg" width="140" style="border-radius:10px;"><br>
+  <img src="/images/students/JiaruiLi.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Jiarui Li（李佳睿）</strong><br>
   Undergraduate<br>
   (2024–2028 )<br>
@@ -137,7 +137,7 @@ permalink: /group/
 </div>
 
 <div style="width:180px; text-align:center;">
-  <img src="/images/students/MengwanWu.jpg" width="140" style="border-radius:10px;"><br>
+  <img src="/images/students/MengwanWu.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Mengwan Wu（吴梦婉）</strong><br>
   Undergraduate<br>
   (2024–2028 )<br>
@@ -145,7 +145,7 @@ permalink: /group/
 </div>
 
 <div style="width:180px; text-align:center;">
-  <img src="/images/students/SihanQiu.jpg" width="140" style="border-radius:10px;"><br>
+  <img src="/images/students/SihanQiu.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Sihan Qiu（邱思涵）</strong><br>
   Undergraduate<br>
   (2024–2028 )<br>
