@@ -150,14 +150,13 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: "google-gtag"
   google:
-    tracking_id          :
-
-
+    tracking_id: "G-S0E9LQ62CH"
+    anonymize_ip: false
+ 
 # Reading Files
 include:
   - .htaccess
