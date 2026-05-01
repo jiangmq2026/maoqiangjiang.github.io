@@ -154,7 +154,7 @@ permalink: /group/
 
 ---
 
-## 🎓 Alumni（可选）
+## 🎓 Alumni（已毕业）
 
 *To be updated*
 
@@ -162,4 +162,4 @@ permalink: /group/
 
 ## 🤝 Join Us
 
-See the [Students page](/students/) for recruitment information.
+See the [Students page](/join/) for recruitment information.
