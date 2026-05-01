@@ -10,16 +10,16 @@ permalink: /students/
 
 欢迎对以下方向感兴趣的研究生加入课题组：
 
-- 计算流体力学（CFD）与数值模拟  
+- 计算流体力学（CFD）（Lattice Boltzmann Method+Immersed Boundary Method+GPU） 
 - 人工智能在流体力学中的应用（AI + CFD）  
-- 液氢储运与氢能系统  
+- 液氢储运与安全  
 - 深海采矿多相流  
 
 Students interested in the following areas are welcome:
 
-- Computational Fluid Dynamics (CFD)  
+- Computational Fluid Dynamics (CFD)（Lattice Boltzmann Method+Immersed Boundary Method+GPU）
 - AI for fluid mechanics  
-- Hydrogen energy systems  
+- Liquid hydrogen storage and transportation  
 - Multiphase flow in deep-sea mining  
 
 ---
@@ -34,4 +34,4 @@ Students interested in the following areas are welcome:
 
 ## 联系方式 Contact
 
-📧 Email: your@email.com
+📧 Email: jiangmq@whut.edu.cn
