@@ -124,24 +124,28 @@ permalink: /group/
   <img src="/images/students/WeiTao.jpg" width="140" style="border-radius:10px;"><br>
   <strong>Wei Tao（陶为）</strong><br>
   Undergraduate (2023–2027 )
+  Research: Liquid hydrogen evaporation at ship sloshing condition
 </div>
 
 <div style="width:180px; text-align:center;">
   <img src="/images/students/JiaruiLi.jpg" width="140" style="border-radius:10px;"><br>
   <strong>Jiarui Li（李佳睿）</strong><br>
   Undergraduate (2024–2028 )
+  Research: Force model of non-spherical particles by AI
 </div>
 
 <div style="width:180px; text-align:center;">
-  <img src="/images/students/MengwangWu.jpg" width="140" style="border-radius:10px;"><br>
-  <strong>Mengwang Wu</strong><br>
+  <img src="/images/students/MengwanWu.jpg" width="140" style="border-radius:10px;"><br>
+  <strong>Mengwan Wu（吴梦婉）</strong><br>
   Undergraduate (2024–2028 )
+  Research: CFD-DEM simulation of large particles lifting in a vercial tube
 </div>
 
 <div style="width:180px; text-align:center;">
   <img src="/images/students/SihanQiu.jpg" width="140" style="border-radius:10px;"><br>
-  <strong>Sihan Qiu</strong><br>
+  <strong>Sihan Qiu（邱思涵）</strong><br>
   Undergraduate (2024–2028 )
+  Research: CFD-DEM simulation of large particles lifting in a vercial tube
 </div>
 
 </div>
