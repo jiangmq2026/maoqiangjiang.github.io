@@ -25,10 +25,11 @@ permalink: /group/
 <div style="display:flex; flex-wrap:wrap; gap:30px;">
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/phd1.jpg" width="160" style="border-radius:10px;"><br>
-  <strong>Student Name</strong><br>
-  PhD Student (2022– )<br>
-  Research: CFD + AI
+  <img src="/images/students/DingranZhangjpg" width="160" style="border-radius:10px;"><br>
+  <strong>Dingran Zhang（张丁然）</strong><br>
+  PhD Student<br>
+  (2022–2026 )<br>
+  Research: Hydrogen safety
 </div>
 
 </div>
@@ -42,50 +43,73 @@ permalink: /group/
 <div style="width:220px; text-align:center;">
   <img src="/images/students/XiaoyuFan.jpg" width="160" style="border-radius:10px;"><br>
   <strong>Xiaoyu Fan（范小禹）</strong><br>
-  Master Student (2023–2026 )<br>
-  Research: Multiphase Flow
+  Master Student<br>
+   (2023–2026 )<br>
+  Research: Liquid hydrogen leakage
 </div>
 
 <div style="width:220px; text-align:center;">
   <img src="/images/students/JiajiaWu.jpg" width="160" style="border-radius:10px;"><br>
   <strong>Jiajia Wu（吴嘉嘉）</strong><br>
-  Master Student (2023–2026 )<br>
-  Research: Hydrogen Energy
+  Master Student<br>
+   (2023–2026 )<br>
+  Research: LBM simulation of flow in porous medium 
 </div>
 
 <div style="width:220px; text-align:center;">
   <img src="/images/students/JingyuZeng.jpg" width="160" style="border-radius:10px;"><br>
   <strong>Jingyu Zeng（曾静宇）</strong><br>
-  Master Student (2024–2027 )<br>
-  Research: CFD Simulation
+  Master Student<br>
+   (2024–2027 )<br>
+  Research: Flow past large particles at high Re by LBM simulation
 </div>
 
 <div style="width:220px; text-align:center;">
   <img src="/images/students/XinqinGan.jpg" width="160" style="border-radius:10px;"><br>
   <strong>Xinqin Gan（甘鑫琴）</strong><br>
-  Master Student (2024–2027 )<br>
-  Research: AI + CFD
+  Master Student<br>
+   (2024–2027 )<br>
+  Research: Hydrogen leakage at high temperature
 </div>
 
 <div style="width:220px; text-align:center;">
   <img src="/images/students/JiayuanHan.jpg" width="160" style="border-radius:10px;"><br>
   <strong>Jiangyuan Han（韩家源）</strong><br>
-  Master Student (2025–2028 )<br>
-  Research: Multiphase Flow
+  Master Student<br>
+   (2025–2028 )<br>
+  Research: Settling of large particles by LBM simulation
 </div>
 
 <div style="width:220px; text-align:center;">
   <img src="/images/students/SiyuanLiu.jpg" width="160" style="border-radius:10px;"><br>
   <strong>Siyuan Liu（刘思源）</strong><br>
-  Master Student (2025–2028 )<br>
-  Research: Hydrogen Systems
+  Master Student<br>
+   (2025–2028 )<br>
+  Research: Support structure for liquid hydrogen tank 
 </div>
 
 <div style="width:220px; text-align:center;">
   <img src="/images/students/TaoMa.jpg" width="160" style="border-radius:10px;"><br>
   <strong>Tao Ma（马涛）</strong><br>
-  Master Student (2025–2028 )<br>
-  Research: CFD
+  Master Student<br>
+   (2025–2028 )<br>
+  Research: Liquid Hydrogen Evaporation in tank and Software development
+</div>
+
+<div style="width:220px; text-align:center;">
+  <img src="/images/students/XinyuCui.jpg" width="160" style="border-radius:10px;"><br>
+  <strong>Xinyu Cui（崔新宇）</strong><br>
+  Master Student<br>
+   (2026–2029 )<br>
+  Research: Settling of large particles by LBM simulation
+</div>
+
+<div style="width:220px; text-align:center;">
+  <img src="/images/students/linfengWang.jpg" width="160" style="border-radius:10px;"><br>
+  <strong>Linfeng Wan（万林峰）</strong><br>
+  Master Student<br>
+   (2026–2029 )<br>
+  Research: Settling of large particles by LBM simulation
 </div>
 
 </div>
