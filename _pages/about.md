@@ -5,32 +5,62 @@ permalink: /
 author_profile: true
 ---
 
-# 江茂强 副教授  
-**Maoqiang Jiang, Associate Professor**
+# Maoqiang Jiang  
+**Professor**
 
-武汉理工大学 船海与能源动力工程学院  
+School of Naval Architecture, Ocean and Energy Power Engineering  
+Wuhan University of Technology  
+
+📧 jiangmq@whut.edu.cn  
+🔗 [Google Scholar](https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ)
 
 ---
 
-I am an Associate Professor at Wuhan University of Technology. My research focuses on:
+## 👋 About
 
-- Computational Fluid Dynamics (CFD) and Artificial Intelligence  
+I am a Professor at Wuhan University of Technology. My research focuses on computational and data-driven approaches for complex fluid dynamics problems in marine and energy engineering.
+
+My work aims to develop efficient numerical methods and integrate artificial intelligence techniques to address multi-scale and multi-physics flow problems.
+
+---
+
+## 🔬 Research Interests
+
+- Computational Fluid Dynamics (CFD)  
+- Artificial Intelligence for Fluid Mechanics (AI + CFD)  
 - Liquid Hydrogen Storage and Transportation  
 - Multiphase Flow in Deep-Sea Mining  
 
-I work on numerical simulation and data-driven modeling for complex flow problems in marine and energy engineering.
+---
+
+## ⭐ Selected Publications
+
+- *Nature Communications, 2024* — Active matter and turbulence  
+- *Journal of Computational Physics, 2019* — Immersed boundary method  
+- *Physics of Fluids, 2024–2026* — Multiphase and hydrogen flow systems  
+
+*(See full list on Publications page)*
 
 ---
 
-## 招生 / Prospective Students
+## 🎓 Students
 
-欢迎对以下方向感兴趣的研究生加入：
+I am looking for motivated students with strong interests in CFD, AI, and energy systems.
 
-- CFD / 数值模拟  
-- 人工智能 + 流体力学  
-- 氢能与液氢储运  
-- 深海采矿多相流  
+👉 Please visit the [Join Us](/join/) page for more details.
 
-要求：主动积极、责任心强，具备编程或数值计算基础。
+---
 
-Students with interests in CFD, AI, hydrogen energy, or deep-sea mining are welcome. Programming experience (Python/C++) is preferred.
+## 🤝 Collaboration
+
+I welcome academic and industrial collaborations in:
+
+- CFD and numerical methods  
+- Hydrogen energy systems  
+- Multiphase flow modeling  
+
+---
+
+## 📍 Location
+
+Wuhan, China
