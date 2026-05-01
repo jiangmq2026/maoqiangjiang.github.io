@@ -105,7 +105,7 @@ permalink: /group/
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/linfengWang.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
+  <img src="/images/students/linfengWan.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Linfeng Wan（万林峰）</strong><br>
   Master Student<br>
    (2026–2029 )<br>
@@ -121,33 +121,27 @@ permalink: /group/
 <div style="display:flex; flex-wrap:wrap; gap:30px;">
 
 <div style="width:180px; text-align:center;">
-  <img src="/images/students/u1.jpg" width="140" style="border-radius:10px;"><br>
-  <strong>Student Name</strong><br>
-  Undergraduate (2023– )
+  <img src="/images/students/WeiTao.jpg" width="140" style="border-radius:10px;"><br>
+  <strong>Wei Tao（陶为）</strong><br>
+  Undergraduate (2023–2027 )
 </div>
 
 <div style="width:180px; text-align:center;">
-  <img src="/images/students/u2.jpg" width="140" style="border-radius:10px;"><br>
-  <strong>Student Name</strong><br>
-  Undergraduate (2023– )
+  <img src="/images/students/JiaruiLi.jpg" width="140" style="border-radius:10px;"><br>
+  <strong>Jiarui Li（李佳睿）</strong><br>
+  Undergraduate (2024–2028 )
 </div>
 
 <div style="width:180px; text-align:center;">
-  <img src="/images/students/u3.jpg" width="140" style="border-radius:10px;"><br>
-  <strong>Student Name</strong><br>
-  Undergraduate (2024– )
+  <img src="/images/students/MengwangWu.jpg" width="140" style="border-radius:10px;"><br>
+  <strong>Mengwang Wu</strong><br>
+  Undergraduate (2024–2028 )
 </div>
 
 <div style="width:180px; text-align:center;">
-  <img src="/images/students/u4.jpg" width="140" style="border-radius:10px;"><br>
-  <strong>Student Name</strong><br>
-  Undergraduate (2022– )
-</div>
-
-<div style="width:180px; text-align:center;">
-  <img src="/images/students/u5.jpg" width="140" style="border-radius:10px;"><br>
-  <strong>Student Name</strong><br>
-  Undergraduate (2024– )
+  <img src="/images/students/SihanQiu.jpg" width="140" style="border-radius:10px;"><br>
+  <strong>Sihan Qiu</strong><br>
+  Undergraduate (2024–2028 )
 </div>
 
 </div>
