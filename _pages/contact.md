@@ -9,7 +9,7 @@ permalink: /contact/
 ## 👤 基本信息
 
 **Maoqiang Jiang (江茂强)**  
-Associate Professor  
+Professor  
 School of Naval Architecture, Ocean and Energy Power Engineering  
 Wuhan University of Technology  
 
@@ -43,11 +43,11 @@ jiangmq [at] whut.edu.cn
 ## 🔗 Academic Profiles
 
 - Google Scholar:  
-  [https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ]
+  https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 
 ---
 
-## 🕒 Office Hours（可选）
+## 🕒 Office Hours
 
 By appointment via email  
 
