@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Students"
-permalink: /students/
+title: "Join Us"
+permalink: /join/
 ---
 
 # Students / 招生信息
