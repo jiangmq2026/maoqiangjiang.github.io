@@ -40,51 +40,51 @@ permalink: /group/
 <div style="display:flex; flex-wrap:wrap; gap:30px;">
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/m1.jpg" width="160" style="border-radius:10px;"><br>
-  <strong>Student Name</strong><br>
-  Master Student (2023– )<br>
+  <img src="/images/students/XiaoyuFan.jpg" width="160" style="border-radius:10px;"><br>
+  <strong>Xiaoyu Fan（范小禹）</strong><br>
+  Master Student (2023–2026 )<br>
   Research: Multiphase Flow
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/m2.jpg" width="160" style="border-radius:10px;"><br>
-  <strong>Student Name</strong><br>
-  Master Student (2023– )<br>
+  <img src="/images/students/JiajiaWu.jpg" width="160" style="border-radius:10px;"><br>
+  <strong>Jiajia Wu（吴嘉嘉）</strong><br>
+  Master Student (2023–2026 )<br>
   Research: Hydrogen Energy
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/m3.jpg" width="160" style="border-radius:10px;"><br>
-  <strong>Student Name</strong><br>
-  Master Student (2022– )<br>
+  <img src="/images/students/JingyuZeng.jpg" width="160" style="border-radius:10px;"><br>
+  <strong>Jingyu Zeng（曾静宇）</strong><br>
+  Master Student (2024–2027 )<br>
   Research: CFD Simulation
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/m4.jpg" width="160" style="border-radius:10px;"><br>
-  <strong>Student Name</strong><br>
-  Master Student (2024– )<br>
+  <img src="/images/students/XinqinGan.jpg" width="160" style="border-radius:10px;"><br>
+  <strong>Xinqin Gan（甘鑫琴）</strong><br>
+  Master Student (2024–2027 )<br>
   Research: AI + CFD
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/m5.jpg" width="160" style="border-radius:10px;"><br>
-  <strong>Student Name</strong><br>
-  Master Student (2023– )<br>
+  <img src="/images/students/JiayuanHan.jpg" width="160" style="border-radius:10px;"><br>
+  <strong>Jiangyuan Han（韩家源）</strong><br>
+  Master Student (2025–2028 )<br>
   Research: Multiphase Flow
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/m6.jpg" width="160" style="border-radius:10px;"><br>
-  <strong>Student Name</strong><br>
-  Master Student (2022– )<br>
+  <img src="/images/students/SiyuanLiu.jpg" width="160" style="border-radius:10px;"><br>
+  <strong>Siyuan Liu（刘思源）</strong><br>
+  Master Student (2025–2028 )<br>
   Research: Hydrogen Systems
 </div>
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/m7.jpg" width="160" style="border-radius:10px;"><br>
-  <strong>Student Name</strong><br>
-  Master Student (2024– )<br>
+  <img src="/images/students/TaoMa.jpg" width="160" style="border-radius:10px;"><br>
+  <strong>Tao Ma（马涛）</strong><br>
+  Master Student (2025–2028 )<br>
   Research: CFD
 </div>
 
