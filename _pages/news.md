@@ -12,7 +12,7 @@ permalink: /news/
 
 ### 📝 April 2026
 **Paper published in *International Journal of Hydrogen Energy***  
-PhD student Dingran Zhang's work on Momentum to confinement transition in high-pressure hydrogen jet flames in a confined compartment has been published.
+PhD student Dingran Zhang's work on Momentum to confinement transition in high-pressure hydrogen jet flames in a confined compartment has been published.Congraduations!
 
 ---
 
