@@ -11,6 +11,22 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 
 ## 2026
 
+- **Hydrogen and Water Effects on Carbon Adsorption, Migration, and Dimer Formation on Cu and Ni Surfaces: Insights into Graphene Growth Mechanisms**  
+  Li M., Jiang M., ..., Liu S., Zhang Z., Li G.  
+  *Carbon, 2026* Under Review
+
+- **Active wave turbulence in hexatic phase**  
+  Yang Q., Zhang X., Jiang M., ..., Zhu L.  
+  *Physical Review Letters, 2026* Under Review
+  
+- **Evolution characteristics and prediction models of hydrogen leakage in the compartment under ship-motion conditions**  
+  Zhang D., Li G., Jiang M.  
+  *International Journal of Hydrogen Energy, 2026* Under Review
+  
+- **Artificial Neural Network Framework on Bio-Inspired Petal Shape Fins Along with Nanoparticle-Enhanced Phase Change Material in Thermal Energy System**  
+  Wei C., Hussain M., Jiang M.  Zhang Z., Waqas H., ...
+  *International Communications in Heat and Mass Transfer, 2026* Under Review
+  
 - **Diverging transition pathways to turbulence in regular and random porous media**  
   Wu J., Zeng J., Liu S., Jiang M.  
   *Physics of Fluids, 2026*
