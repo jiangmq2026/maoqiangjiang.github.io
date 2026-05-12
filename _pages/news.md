@@ -11,7 +11,7 @@ permalink: /news/
 ## 2026
 
 ### 📝 May 12th, 2026
-**Jiajia Wu got scholarship from *Monash University***  
+**Jiajia Wu got scholarships from *Monash University, Australia***  
 Ms student Jiajia Wu got offers of a Monash Research (Chemical & Biological Enigneering) stipend scholarship funded by Dr Shibo Kuang's grant and a Faculty of Engineering International Postgraduate Research Scholarship to cover the tuition fees. These offers will support Jiajia's PhD study at Monash University, Australia. Congraduations!
 
 ---
