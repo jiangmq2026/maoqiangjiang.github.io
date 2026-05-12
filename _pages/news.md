@@ -11,6 +11,12 @@ permalink: /news/
 ## 2026
 
 ### 📝 April 2026
+**Jiajia Wu got scholarship from *Monash University***  
+Ms student Jiajia Wu got offers of a Monash Research (Chemical & Biological Enigneering) stipend scholarship funded by Dr Shibo Kuang's grant and a Faculty of Engineering International Postgraduate Research Scholarship to cover the tuition fees. These offers will support Jiajia's PhD study at Monash University, Australia. Congraduations!
+
+---
+
+### 📝 April 2026
 **Paper published in *International Journal of Hydrogen Energy***  
 PhD student Dingran Zhang's work on Momentum to confinement transition in high-pressure hydrogen jet flames in a confined compartment has been published.Congraduations!
 
