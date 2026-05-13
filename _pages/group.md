@@ -25,7 +25,7 @@ permalink: /group/
 <div style="display:flex; flex-wrap:wrap; gap:30px;">
 
 <div style="width:220px; text-align:center;">
-  <img src="/images/students/DingranZhangjpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
+  <img src="/images/students/DingranZhang.png" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
   <strong>Dingran Zhang（张丁然）</strong><br>
   PhD Student<br>
   (2022–2026 )<br>
