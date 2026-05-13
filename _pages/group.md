@@ -152,6 +152,14 @@ permalink: /group/
   Research: CFD-DEM simulation of large particles lifting in a vercial tube
 </div>
 
+<div style="width:180px; text-align:center;">
+  <img src="/images/students/JinzhenGao.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.1);"><br>
+  <strong>Jinzhen Gao（高锦震）</strong><br>
+  Undergraduate<br>
+  (2024–2028 )<br>
+  Research: Support structure for liquid hydrogen tank
+</div>
+
 </div>
 
 ---
