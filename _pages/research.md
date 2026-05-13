@@ -5,10 +5,10 @@ permalink: /research/
 ---
 
 ## CFD and AI
-High-fidelity simulation, turbulence modeling, and PINNs.
+Lattice Boltzmann Method, High-fidelity simulation, turbulence modeling, and Machine Learning.
 
-## Liquid Hydrogen
-Cryogenic flow, heat transfer, and system optimization.
+## Liquid Hydrogen and Hydrogen Safety
+Cryogenic flow, heat transfer, and Safety simulation.
 
 ## Deep-Sea Mining
-Multiphase flow, particle transport, and pipeline stability.
+Non-spherical particle, Multiphase flow, Particle transport in pipe.
