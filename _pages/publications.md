@@ -10,6 +10,14 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 ---
 
 ## 2026
+- **Side-by-Side Settling of Two Large Particles in Turbulent Wakes**  
+  **Jiang M.**, Yang S., Zhang Z., Liu Z.  
+  *2026* Prepared
+
+ - **The flow past a large ellipsoidal particle at high-Reynolds-number**  
+  **Jiang M.**, Li J., Zhang Z., Liu Z.  
+  *2026* Prepared
+   
 - **Wall-modeled immersed boundary-cumulant Lattice Boltzmann method for high fidelity simulation of turbulent particle-laden flows**  
   **Jiang M.**, Zeng J., Zhang Z., Liu Z.  
   *2026* Prepared
