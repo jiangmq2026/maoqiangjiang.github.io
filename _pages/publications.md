@@ -30,7 +30,7 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
   Han J., Zhang Z., **Jiang M.**
   *2026* Prepared
 
- - **Characteristics of high pressure hydrogen jet dispersion at high temperature**  
+ - **Characteristics of compressed hydrogen leakage at high temperature**  
   Gan X., Zhang Z., **Jiang M.**
   *2026* Prepared
 
