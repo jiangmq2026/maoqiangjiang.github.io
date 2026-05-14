@@ -10,7 +10,30 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 ---
 
 ## 2026
+- **Wall-modeled immersed boundary-cumulant Lattice Boltzmann method for high fidelity simulation of turbulent particle-laden flows**  
+  **Jiang M.**, Zeng J., Zhang Z., Liu Z.  
+  *2026* Prepared
+  
+ - **Drag force model for flows past random array spheres**  
+  Zeng J., Zhang Z., Liu Z., **Jiang M.**
+  *2026* Prepared
 
+ - **The instabilities of a large particle settling at high Re numbers**  
+  Han J., Zhang Z., **Jiang M.**
+  *2026* Prepared
+
+ - **Characteristics of high pressure hydrogen jet dispersion at high temperature**  
+  Gan X., Zhang Z., **Jiang M.**
+  *2026* Prepared
+
+ - **A numerical analysis study on the characteristics of evaporation in liquid hydrogen tank**  
+  Ma T., **Jiang M.**
+  *2026* Prepared
+
+ - **3D Numerical Simulation of Liquid Hydrogen Tank Evaporation under Sloshing Conditions during Ship Transportation**  
+  Tao W., **Jiang M.**
+  *2026* Prepared
+  
 - **Hydrogen and Water Effects on Carbon Adsorption, Migration, and Dimer Formation on Cu and Ni Surfaces: Insights into Graphene Growth Mechanisms**  
   Li M., Jiang M., ..., Liu S., Zhang Z., Li G.  
   *Carbon, 2026* Under Review
@@ -27,7 +50,7 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
   Wei C., Hussain M., Jiang M.  Zhang Z., Waqas H., ...
   *International Communications in Heat and Mass Transfer, 2026* Under Review
   
-- **Diverging transition pathways to turbulence in regular and random porous media1**  
+- **Diverging transition pathways to turbulence in regular and random porous media**  
   Wu J., Zeng J., Liu S., Jiang M.  
   *Physics of Fluids, 2026*
 
