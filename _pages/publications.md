@@ -27,7 +27,7 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
   Wei C., Hussain M., Jiang M.  Zhang Z., Waqas H., ...
   *International Communications in Heat and Mass Transfer, 2026* Under Review
   
-- **Diverging transition pathways to turbulence in regular and random porous media**  
+- **Diverging transition pathways to turbulence in regular and random porous media1**  
   Wu J., Zeng J., Liu S., Jiang M.  
   *Physics of Fluids, 2026*
 
