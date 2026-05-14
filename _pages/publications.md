@@ -10,7 +10,7 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
 ---
 
 ## 2026
-- **Side-by-Side Settling of Two Large Particles in Turbulent Wakes**  
+- **Side-by-side settling of two large particles with turbulent wakes**  
   **Jiang M.**, Yang S., Zhang Z., Liu Z.  
   *2026* Prepared
 
