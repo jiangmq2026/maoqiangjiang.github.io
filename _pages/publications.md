@@ -22,7 +22,7 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
   **Jiang M.**, Zeng J., Zhang Z., Liu Z.  
   *2026* Prepared
   
- - **Drag force model for flows past random array spheres**  
+ - **Drag force model for flows past random array large spheres**  
   Zeng J., Zhang Z., Liu Z., **Jiang M.**
   *2026* Prepared
 
