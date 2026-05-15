@@ -33,6 +33,10 @@ https://scholar.google.com/citations?hl=en&user=cnXsZBEAAAAJ
  - **Characteristics of compressed hydrogen leakage at high temperature**  
   Gan X., Zhang Z., **Jiang M.**
   *2026* Prepared
+   
+ - **Multiphase Flow Characteristics and Diffusion of Liquid Hydrogen under Ship Motion: A CFD Study**  
+  **Jiang M.**, Zhang D., Fan X., Li G.
+  *2026* Prepared
 
  - **A numerical analysis study on the characteristics of evaporation in liquid hydrogen tank**  
   Ma T., **Jiang M.**
